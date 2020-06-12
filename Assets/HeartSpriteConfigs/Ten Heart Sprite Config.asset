@@ -1,0 +1,26 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 06dcc5cf498cfe243b4f3f982f382352, type: 3}
+  m_Name: Ten Heart Sprite Config
+  m_EditorClassIdentifier: 
+  heartSpritesArray:
+  - {fileID: 4432793351920879750, guid: 435b5297b8c199546b2080fc8b7ed8b7, type: 3}
+  - {fileID: 5642012044021194823, guid: 435b5297b8c199546b2080fc8b7ed8b7, type: 3}
+  - {fileID: 8124259339964715380, guid: 435b5297b8c199546b2080fc8b7ed8b7, type: 3}
+  - {fileID: 7685371531485235544, guid: 435b5297b8c199546b2080fc8b7ed8b7, type: 3}
+  - {fileID: 4160753575623616581, guid: 435b5297b8c199546b2080fc8b7ed8b7, type: 3}
+  - {fileID: 366615594880959974, guid: 435b5297b8c199546b2080fc8b7ed8b7, type: 3}
+  - {fileID: -35186699611894704, guid: 435b5297b8c199546b2080fc8b7ed8b7, type: 3}
+  - {fileID: 3631281003583422710, guid: 435b5297b8c199546b2080fc8b7ed8b7, type: 3}
+  - {fileID: 4183679337717486878, guid: 435b5297b8c199546b2080fc8b7ed8b7, type: 3}
+  - {fileID: -691712649893454002, guid: 435b5297b8c199546b2080fc8b7ed8b7, type: 3}
+  - {fileID: 1005382218610990372, guid: 435b5297b8c199546b2080fc8b7ed8b7, type: 3}

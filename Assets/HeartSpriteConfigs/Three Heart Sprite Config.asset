@@ -1,0 +1,19 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 06dcc5cf498cfe243b4f3f982f382352, type: 3}
+  m_Name: Three Heart Sprite Config
+  m_EditorClassIdentifier: 
+  heartSpritesArray:
+  - {fileID: 8330600244651768355, guid: 136c8e43a4886e94c8eea17d06376b96, type: 3}
+  - {fileID: 992537854834504995, guid: 136c8e43a4886e94c8eea17d06376b96, type: 3}
+  - {fileID: 7390008206046903961, guid: 136c8e43a4886e94c8eea17d06376b96, type: 3}
+  - {fileID: -5367025495274744669, guid: 136c8e43a4886e94c8eea17d06376b96, type: 3}
